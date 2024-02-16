@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "glassmorphism",
+        "Meri",
+        "Navbutton",
+        "raleway",
+        "Shab",
+        "tailwindcss"
+    ],
+
+    "css.customData": [".vscode/css_custom_data.json"],
+
+    "files.associations": {        "*.css": "tailwindcss"      },
+}
